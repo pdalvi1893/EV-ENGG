@@ -56,6 +56,14 @@ Once the target is set , click on Start Match button on Challenge #3 tab. Once d
 
 ![Logo](Match_Start.png)
 
+### `5. Configuring commentary templates`
+
+You are at the liberty of configuring the commentary templates by going to the below collection. However there are tags that serve as keywords which are mentioned below and should be used exact word to word enclosed in braces {}.
+```
+{batsman} {bowler} {first_team} {second_team} {batting_card} {bowling_card} {shot_timing} {runs} {margin} {wickets}
+```
+
+![Logo](Commentary_Table.png)
 
 ## 📚 Learn more
 
