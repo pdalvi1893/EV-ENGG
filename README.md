@@ -8,10 +8,10 @@ The project can be set up using the source code supplied or by running a docker 
 
 ### `1. Running using Docker`
 
-Pull the image image_name and do a host port mapping. The docker image is configured to run on port 1337.
+Pull the image pankajdalvi1893/prj-everest-engg and do a host port mapping. The docker image is configured to run on port 1337.
 
 ```
-docker pull pankajdalvi1893/
+docker pull pankajdalvi1893/prj-everest-engg:latest
 ```
 
 ### `2. Running on local machine`
@@ -52,7 +52,7 @@ Before starting Challenge #3 you will need to create a target and wickets in the
 
 ![Logo](Setting_Target.png)
 
-Once the target is set , click on Start Match button on Challenge #3 tab. Once done you can play ball by ball clicking on Face a Ball button.
+Once the target is set , click on Start Match button on Challenge #3 tab. Once done you can play ball by ball by clicking on Face a Ball button.
 
 ![Logo](Match_Start.png)
 
