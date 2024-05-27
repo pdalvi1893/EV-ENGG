@@ -46,29 +46,16 @@ Once the project is successfully up and running log in to the application using 
 
 ![Logo](AdminApplication.png)
 
-Creating a target for Challenge #3.
+### `4. Starting Challenge #3`
 
-```
-npm run test
-```
+Before starting Challenge #3 you will need to create a target and wickets in the Match Collection. Search for the id shown on Challenge #3 save button and modify the collection to set target runs for Team #2
 
-Modifying the templates for commentary.
+![Logo](Setting_Target.png)
 
-```
-npm run test
-```
+Once the target is set , click on Start Match button on Challenge #3 tab. Once done you can play ball by ball clicking on Face a Ball button.
 
-Modifying the templates for commentary.
+![Logo](Match_Start.png)
 
-```
-npm run test
-```
-
-You can explore the admin and make more changes to content. Below is the list of collections which hold master data for the application. Feel free to play around the entities.
-
-```
-npm run test
-```
 
 ## 📚 Learn more
 
