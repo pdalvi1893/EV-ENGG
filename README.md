@@ -1,6 +1,7 @@
 # 🚀 Introduction
 
 The project is built using node js (v18.17.1). An open source node CMS called Strapi is used in aiding the developmen of the project. Currently the application is run using sqlite database to ease the running of applicatins for the reviewers. Ideally this would be done using a database postgresql.
+Please note the admin panel is accessible on **[http://localhost:1337/admin](http://localhost:1337/admin)** (Always append /admin to reach login page of application)
 
 ### `Setting up the Project`
 
